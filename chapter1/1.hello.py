@@ -1,0 +1,5 @@
+print('======Welcome to script world=============')
+print('==========================================')
+title = input ('Enter Your Title: ')
+name = input('Enter Your Name: ')
+print('Hello ' + title + '.' + name + ' Welcome....!!!')

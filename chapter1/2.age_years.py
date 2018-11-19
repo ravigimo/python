@@ -1,0 +1,7 @@
+print('======Welcome to script world=============')
+print('==========================================')
+print('hello')
+age = int(input('Enter Your Age: '))
+print('You will be ' + str(int(age+5)) + ' in 5 Years')
+print('You will be 100 Years OLD in ' + str(2018+(100-age)))
+print(str(100-age) + ' Years has to GO! ')
